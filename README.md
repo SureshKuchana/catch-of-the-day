@@ -1,3 +1,1 @@
-# react-typescript-vite
-
-React TypeScript Vite Project Setup
+# catch of the day
